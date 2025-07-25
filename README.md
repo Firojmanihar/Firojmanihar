@@ -14,5 +14,4 @@ Motivated and detail-oriented Web Developer with 1 year of hands-on experience i
 
 ### 📫 Contact Me   
 - **GitHub:** [Your GitHub Profile](https://github.com/firojmanihar)
-- **Linkedin:** [Your linkedin profile]
-(https://www.linkedin.com/in/firoj-manihar)
+- **Linkedin:**https://www.linkedin.com/in/firoj-manihar
