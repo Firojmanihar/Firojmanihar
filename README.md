@@ -13,5 +13,5 @@ Motivated and detail-oriented Web Developer with 1 year of hands-on experience i
 - **Database:** SQL, PostgreSQL  
 
 ### 📫 Contact Me   
-- **GitHub:** [Your GitHub Profile](https://github.com/firojmanihar)
-- **Linkedin:**https://www.linkedin.com/in/firoj-manihar
+-GitHub:https://github.com/firojmanihar)
+-Linkedin:https://www.linkedin.com/in/firoj-manihar
